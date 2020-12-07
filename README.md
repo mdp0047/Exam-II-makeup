@@ -10,3 +10,6 @@ Boggle_Recursive - java program file
 Compilation instructions:
 Compile using JAVA in jGRASP
 All java program files and words_alpha must be in the same folder to run correctly
+
+Execution instructions:
+Run Boggle_Driver file, input board size, create board, chose solve type
